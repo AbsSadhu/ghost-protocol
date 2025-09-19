@@ -1,0 +1,3 @@
+"""
+Ghost Protocol Backend Application
+"""
