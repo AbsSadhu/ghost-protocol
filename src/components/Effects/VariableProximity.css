@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+.variable-proximity {
+  font-family: 'Roboto Flex', sans-serif;
+  display: inline-flex;
+  white-space: nowrap;
+}
+
+.variable-proximity-letter {
+  display: inline-block;
+}
