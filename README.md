@@ -1,6 +1,6 @@
-# Ghost Protocol Web Frontend
+**Ghost Protocol Web Frontend**
 
-React + Vite frontend for the Ghost Protocol secure messaging client. It provides authentication, chat UI, WebSocket-driven presence/typing updates, and a set of signature visual effects (Target Cursor, Liquid Ether, Matrix Rain, Shiny Text, Variable Proximity).
+React + Vite frontend for the Ghost Protocol secure steganographic messenger (messages hidden inside JPEG DCT coefficients). It provides authentication, chat UI, WebSocket-driven presence/typing updates, and a set of signature visual effects (Target Cursor, Liquid Ether, Matrix Rain, Shiny Text, Variable Proximity).
 
 ## Features
 - Auth flow with protected routes (login/register/dashboard/chat)
